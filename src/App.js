@@ -40,7 +40,7 @@ const Slider = ({
 
   const sliderRef = React.useRef();
   const thumbRef = React.useRef();
-  const currentRef = React.useRef(initial);
+  const currentRef = React.useRef();
 
   const diff = React.useRef();
 
