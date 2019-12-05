@@ -9,7 +9,6 @@ const SliderHeader = styled.div`
 const StyledSlider = styled.div`
   border-radius: 3px;
   background: #dddddd;
-  margin: 5px;
   height: 15px;
 `;
 
