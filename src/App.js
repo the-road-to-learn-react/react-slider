@@ -90,7 +90,7 @@ const Slider = ({
       <SliderHeader>
         <strong ref={currentRef}>{formatFn(initial)}</strong>
         &nbsp;/&nbsp;
-        {{formatFn(max)}}
+        {formatFn(max)}
       </SliderHeader>
       <StyledSlider ref={sliderRef}>
         <StyledThumb
