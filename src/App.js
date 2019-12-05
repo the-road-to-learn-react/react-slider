@@ -7,6 +7,7 @@ const SliderHeader = styled.div`
 `;
 
 const StyledSlider = styled.div`
+  position: relative;
   border-radius: 3px;
   background: #dddddd;
   height: 15px;
